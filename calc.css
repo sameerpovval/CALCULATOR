@@ -1,0 +1,31 @@
+.mainbody{
+    width: 400px;
+    height: 500px;
+    background-color: goldenrod;
+    border: 1px solid;
+    margin-left: 450px;
+}
+
+#inp{
+    width: 315px;
+    height: 46px;
+    margin-left: 39px;
+    margin-top: 34px;
+    pointer-events: none;
+}
+
+.btn{
+    width: 50px;
+    height: 45px;
+    margin: 10px;
+    background-color: rgb(201, 198, 198);
+}
+
+.mainbox{
+    margin-left: 55px;
+    margin-top: 18px;
+}
+
+.clearbtn{
+    margin-left: 50px;
+}
